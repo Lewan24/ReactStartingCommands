@@ -1,6 +1,9 @@
 # ReactStartingCommands
 This is a simple set of common commands and things to do while creating a new react project.
 
+# Ready to go template
+You can use my [Template](https://github.com/Lewan24/ReactViteTemplate) that includes all these changes
+
 ## Set up default resolve of src dir
 Add this to your <b>vite.config.ts</b><br>
 ```
