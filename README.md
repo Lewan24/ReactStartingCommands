@@ -35,6 +35,18 @@ Import tailwind css to your .css file like <b>App.css</b><br>
 @import "tailwindcss";
 ```
 
+<li>clsx</li>
+
+```
+npm install clsx
+```
+
+<li>lucide-react</li>
+ 
+```
+npm install lucide-react
+```
+
 ## Configure main files, router and default layout
 <b><i>main.tsx</i></b>
 ```
